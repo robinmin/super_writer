@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__task-master-ai__get_tasks",
+      "mcp__task-master-ai__parse_prd",
+      "mcp__ultra-mcp__plan-feature",
+      "mcp__ultra-mcp__planner",
+      "mcp__task-master-ai__add_task"
+    ]
+  },
+  "enableAllProjectMcpServers": true,
+  "enabledMcpjsonServers": [
+    "task-master-ai"
+  ]
+}

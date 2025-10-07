@@ -1,0 +1,14 @@
+[project]
+name = "super-writer"
+version = "0.1.0"
+description = "A smart CLI tool for generating technical contents"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = []
+
+[dependency-groups]
+dev = [
+    "basedpyright>=1.31.6",
+    "mypy>=1.18.2",
+    "ruff>=0.13.3",
+]
